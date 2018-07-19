@@ -21,11 +21,11 @@
      ((background-color . "#232323")
       (border-color . "#232323")
       (background-mode . dark)
-      (mouse-color . "sienna1") ; avallark 
-      (cursor-color . "#5A647E") ;avallark
+      (mouse-color . "sienna1")  
+      (cursor-color . "#5A647E") 
       (foreground-color . "#E6E1DC"))
-     (default ((t (:background "#232323" :foreground "#F8F8F8")))) ;avallark
-     (blue ((t (:foreground "blue")))) ; avallark
+     (default ((t (:background "#232323" :foreground "#F8F8F8"))))
+     (blue ((t (:foreground "blue"))))
      (bold ((t (:bold t))))
      (bold-italic ((t (:italic t :bold t))))
      (fringe ((t (:background "#232323"))))
